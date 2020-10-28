@@ -5,7 +5,7 @@ Model - task2/VK/VK.cs;
 ViewModel - task2/ViewModel/VkViewModel.cs;
 
 
-Для корректной работы приложения требутся добавить NuGet пакет: HtmlAgilityPack.
+Для корректной работы приложения требуется добавить NuGet пакет: HtmlAgilityPack.
 
 
 Работа приложения:
